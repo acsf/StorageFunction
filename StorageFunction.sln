@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageFunction", "StorageFunction\StorageFunction.csproj", "{E6864E8A-3B2F-4C49-B158-4763C846F832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseFunction", "DataBaseFunction\DataBaseFunction.csproj", "{859D25D3-CFB4-478D-8C75-2786456B4C04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieDetailFunction", "MovieDetailFunction\MovieDetailFunction.csproj", "{B973FDAD-F317-415D-97D9-A056FD420AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllMoviesFunction", "AllMoviesFunction\AllMoviesFunction.csproj", "{B852EDD8-98E0-4053-BEA8-D51EB434286F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6864E8A-3B2F-4C49-B158-4763C846F832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6864E8A-3B2F-4C49-B158-4763C846F832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6864E8A-3B2F-4C49-B158-4763C846F832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6864E8A-3B2F-4C49-B158-4763C846F832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{859D25D3-CFB4-478D-8C75-2786456B4C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859D25D3-CFB4-478D-8C75-2786456B4C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859D25D3-CFB4-478D-8C75-2786456B4C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859D25D3-CFB4-478D-8C75-2786456B4C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B973FDAD-F317-415D-97D9-A056FD420AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B973FDAD-F317-415D-97D9-A056FD420AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B973FDAD-F317-415D-97D9-A056FD420AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B973FDAD-F317-415D-97D9-A056FD420AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B852EDD8-98E0-4053-BEA8-D51EB434286F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B852EDD8-98E0-4053-BEA8-D51EB434286F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B852EDD8-98E0-4053-BEA8-D51EB434286F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B852EDD8-98E0-4053-BEA8-D51EB434286F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
